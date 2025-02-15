@@ -1,7 +1,7 @@
-<div style="padding-top:16px; display: flex; flex-direction: row; gap: 8px; font-size: xx-large; align-items: center; font-weight: bold">
-<img src="assets/logo.png" alt="logo" style="width:48px; height:48px; border-radius:50%;"/>
-<span>RODDGAZM - memecoin docs</span>
-</div>
+
+
+# <img src="assets/logo.png" alt="logo" style="width:22px; height:22px; border-radius:50%;"/> RODDGAZM - memecoin docs
+
 <hr>
 
 ## Принцип замкнутой токеномики для RODDGAZM
