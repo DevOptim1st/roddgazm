@@ -1,8 +1,36 @@
+## RODDGAZM Profile
+<div align="center">
+  <div style="position: relative; width: 600px; height: 260px; margin-bottom: 20px;">
+  <svg width="600px" viewBox="0 0 600 200" style="position: absolute; display: block; border-radius: 10px">
+    <defs>
+      <mask id="cutout-mask">
+        <rect width="600" height="200" fill="white"/>
+        <circle cx="300" cy="230" r="74" fill="black"/>
+      </mask>
+    </defs>
+    <image href="assets/banner.png" width="600px" mask="url(#cutout-mask)"/>
+  </svg>
 
+  <div style="
+    position: relative; 
+    bottom: -160px;
+    width: 140px; 
+    height: 140px; 
+    border-radius: 50%; 
+    background: url('assets/logo.png') center/cover no-repeat;
+  "></div>
+  </div>
 
-# <img src="assets/logo.png" alt="logo" style="width:22px; height:22px; border-radius:50%;"/> RODDGAZM - memecoin docs
+  <div style="padding-top: 50px;">
+    <span style="font-size: 32px; font-weight: bold;">
+      RODDGAZM
+    </span>
 
-<hr>
+  <p style="color: gray;">Get your roddgazm here</p>
+  <hr style="border: none; height: 1px; background-color: gray; margin: 20px 0;">
+  </div>
+</div>
+
 
 ## Принцип замкнутой токеномики для RODDGAZM
 
